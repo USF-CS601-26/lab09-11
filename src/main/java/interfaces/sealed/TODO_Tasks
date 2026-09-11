@@ -1,0 +1,7 @@
+Create a Building class that implements Moveable. Does it compile? Why?
+Remove final from GameCharacter. Does it compile?
+
+Change GameCharacter to non-sealed:
+    public non-sealed class GameCharacter implements Moveable
+Create a Player class that extends GameCharacter.
+Is Player also a Moveable? Why? Can you override move in the Player class?
