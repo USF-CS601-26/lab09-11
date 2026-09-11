@@ -3,6 +3,8 @@ package jsonprocessing.movies;
 import java.util.ArrayList;
 import java.util.List;
 
+// Before you work on this class, look at jsonprocesing examples:
+// https://github.com/USF-CS601-26/examples/tree/main/src/main/java/jsonprocessing
 public class MovieFileParser {
 
     /** Parse a given json file with movies - see the structure of the file movies1.json

@@ -34,7 +34,7 @@ public class DirectoryStreamExample {
      * The main function
      * @param args command line arguments
      */
-    public static void main(String[] args) {
+    static void main(String[] args) {
         DirectoryStreamExample.processFiles("src/main/java/deserializer/movies");
 
     }
